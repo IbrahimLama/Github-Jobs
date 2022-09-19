@@ -30,6 +30,7 @@ module.exports = {
             "warn",
             "never"
         ],
-        "react/react-in-jsx-scope": "off"
+        "react/react-in-jsx-scope": "off",
+        "no-unused-vars": "warn"
     }
 };

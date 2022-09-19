@@ -1,10 +1,11 @@
+import Search from './components/search/index'
 import './App.css'
-import React from 'react'
 
 function App() {
   return (
     <div className="App">
-      <div>Hello</div>
+      <h1>Github Jobs</h1>
+      <Search />
     </div>
   )
 }
