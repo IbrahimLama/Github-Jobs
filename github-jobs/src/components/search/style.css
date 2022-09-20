@@ -1,0 +1,25 @@
+
+
+.SearchContainer .css-152mnda-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 16px 9px !important;
+}
+
+.SearchContainer .css-1w4vsez-MuiFormControl-root {
+    margin: calc((135px / 2) - (55px / 2)) 0 !important;
+}
+
+.SearchContainer .css-152mnda-MuiInputBase-input-MuiOutlinedInput-input {
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    color: #B9BDCF !important;
+}
+
+.SearchContainer .css-2ehmn7-MuiInputBase-root-MuiOutlinedInput-root {
+    height: 55px;
+}
+
+.SearchContainer.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    height: 47px;
+    width: 105px;
+}

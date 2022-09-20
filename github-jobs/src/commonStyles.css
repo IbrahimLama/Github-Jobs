@@ -1,0 +1,15 @@
+.css-1w4vsez-MuiFormControl-root {
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.css-152mnda-MuiInputBase-input-MuiOutlinedInput-input,
+.css-1o9s3wi-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 16px 9px !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 14px !important;
+    color: #B9BDCF !important;
+}
